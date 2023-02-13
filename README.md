@@ -9,3 +9,5 @@ An E-commerce website project developed by 5 developers in 6 days where user can
 - CSS
 - JavaScript
 - Bootstrap
+
+## This project is live now [Click Here](https://capable-begonia-89fcdc.netlify.app/) to see
